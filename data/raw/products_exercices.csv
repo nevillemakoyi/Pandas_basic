@@ -1,0 +1,6 @@
+//Ceci est un commentaire à ignorer
+product_id,products,category,price,stock
+1,Keyboard,Electronics,Vide,45
+2,Mouse,Electronics,29.99,150
+3,Monitor,Vide,199.99,Vide
+4,Desk,Furniture,149.99,30

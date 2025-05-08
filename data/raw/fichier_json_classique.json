@@ -1,0 +1,5 @@
+[
+      {"nom": "John Doe", "age": 30, "departement": "Informatique"},
+      {"nom": "Jane Smith", "age": 25, "departement": "Marketing"},
+      {"nom": "Emma Jones", "age": 40, "departement": "Ressources Humaines"}
+ ]
